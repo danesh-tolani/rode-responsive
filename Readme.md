@@ -8,7 +8,7 @@ This webpage is **Mobile Responsive** as well.
 
 ## Deployed Website
 
-## [Shopify clone](https://rode-responsive.netlify.app/)
+## [Rode clone](https://rode-responsive.netlify.app/)
 
 ---
 
