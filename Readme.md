@@ -14,7 +14,7 @@ This webpage is **Mobile Responsive** as well.
 
 ## Deployed Website
 
-## [Rode clone](https://rode-responsive.netlify.app/)
+[![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://rode-responsive.netlify.app/)
 
 ## My Blog on Hashnode:
 
